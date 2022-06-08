@@ -1,6 +1,6 @@
 /** @format */
 
-export type {
+export {
   IConfig,
   IContext,
   IMutableContext,
